@@ -1,4 +1,4 @@
-# apiResfull florerista
+# ApiRestful florerista
 
 ## Introduccion
 Es una api que crea, obtiene, actualiza, y elimina, un catalago de todo los productos del empredimiento del florerista, asi mismo realiza pedidos y visualiza los pedidos.
